@@ -34,8 +34,9 @@
 
 ### 📊 Vital Signs (Real-time Stats)
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hassanzzzj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hassanzzzj&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hassanzzzj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" alt="Hassan's Stats" />
+  
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hassanzzzj&theme=tokyonight&border_radius=10" alt="Hassan's Streak" />
 </p>
 
 <p align="center">
