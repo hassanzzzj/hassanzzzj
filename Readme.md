@@ -1,14 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=280&section=header&text=Hassan%20Abid&desc=AI%20Engineer%20%7C%20Fine-Tuning%20&%20RAG%20Architect&fontSize=75&fontAlignY=35&descAlignY=60&animation=fadeIn&fontColor=ffffff&descColor=00f2ff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Hassan%20Abid&desc=Agentic%20AI%20Engineer%20%7C%20Building%20Systems%20that%20Think&fontSize=70&fontAlignY=35&descAlignY=60&animation=fadeIn&fontColor=ffffff&descColor=00f2ff" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=00F2FF&center=true&vCenter=true&width=800&lines=Software+Engineering+Student;Agentic+AI+Engineer;LLM+Fine-Tuning+%7C+RAG+Expert;Building+Production-Ready+GenAI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00F2FF&center=true&vCenter=true&width=800&lines=Agentic+AI+Engineer;LLM+Engineering+%7C+RAG+%7C+Fine-Tuning;AI+Automation+for+Real-World+Systems;Building+Production-Ready+GenAI" alt="Typing SVG" />
 </a>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Available_for_Projects-00f2ff?style=for-the-badge&logo=github&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Expertise-AI_Engineering-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Agentic%20AI-Autonomous-000000?style=for-the-badge&logo=robotframework&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GenAI-Production-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLMs-Engineering-00f2ff?style=for-the-badge&logo=googlebard&logoColor=black"/>
 </p>
 
 </div>
@@ -17,37 +18,56 @@
 
 ## 🧭 About Me
 
-I’m a **Software Engineering Student** and an **AI Engineer** dedicated to mastering **Large Language Models (LLMs)** and **Retrieval-Augmented Generation (RAG)**. I build intelligent systems that bridge the gap between complex data and actionable insights.
+I’m an **AI / LLM Engineer** focused on building **Agentic AI systems**, **RAG pipelines**, and **automation workflows** that actually work in production.
 
-- 🧠 **Focus:** Fine-tuning open-source models & optimizing inference.
-- ⚙️ **Systems:** Building robust RAG pipelines with advanced vector retrieval.
-- 🚀 **Goal:** Creating production-ready AI agents.
+I care about:
+- **Reliability** over demos  
+- **Systems** over scripts  
+- **Shipping** over hype  
 
 ---
 
 ## 🧠 Tech Stack & Tools
 
-### ⚡ AI & Generative Suite
+### ⚡ The Agentic AI Suite
+*Cutting-edge frameworks I use to build autonomous systems:*
+
 <p align="center">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-FF4B4B?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CrewAI-FF6F00?style=for-the-badge&logo=robotframework&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
   <img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=llamaindex&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 </p>
 
-### 🛠️ Core Engineering
+### 🛠️ Core Engineering & MLOps
+*Foundational tools powering my deployments:*
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,docker,git,githubactions,postgres,linux,mongodb,aws&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,pandas,numpy,huggingface&theme=dark" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=fastapi,docker,git,githubactions,postgres,linux,vscode&theme=dark" />
 </div>
 
 <div align="center">
   <br>
-  <b>Vector Databases & Retrieval:</b><br>
+  <b>Vector & Retrieval:</b><br>
   <img src="https://img.shields.io/badge/ChromaDB-Search-brightgreen?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Pinecone-Vector-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Milvus-DB-336791?style=flat-square"/>
+  <img src="https://img.shields.io/badge/FAISS-Index-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/PGVector-Database-336791?style=flat-square"/>
 </div>
+
+---
+
+## 🎯 Current Focus
+
+- 🤖 **Agentic AI** — Multi-agent systems, tool-using autonomous workflows  
+- 🧠 **LLM Engineering** — Fine-tuning, prompting, evaluation, optimization  
+- 🔍 **RAG Architectures** — Hybrid search, vector DBs, grounding LLMs  
+- ⚙️ **AI Automation** — AI agents inside real products & pipelines  
+- 📦 **MLOps (Learning)** — Scaling, monitoring, production constraints  
 
 ---
 
@@ -59,10 +79,15 @@ I’m a **Software Engineering Student** and an **AI Engineer** dedicated to mas
 </p>
 
 <div align="center">
-  <img src="https://github.com/hassanzzzj/hassanzzzj/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<img src="https://github.com/hassanzzzj/hassanzzzj/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
 
 ---
+
+### Profile Views
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=hassanzzzj&color=00f2ff&style=flat-square&label=PROFILE+VIEWS" />
+</p>
 
 ## 🤝 Let’s Connect
 
