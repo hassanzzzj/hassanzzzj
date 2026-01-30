@@ -1,43 +1,38 @@
-# Hi there, I'm Hassan! 👋 
-### AI Engineer | LLM & RAG Specialist | Software Engineering Student
-
-I am a passionate **Software Engineering student** dedicated to building intelligent systems. My expertise lies in architecting scalable **AI solutions**, specializing in **Large Language Models (LLMs)**, **Fine-tuning**, and **Retrieval-Augmented Generation (RAG)**. I bridge the gap between robust software engineering principles and cutting-edge Machine Learning.
-
----
-
-### 🚀 What I'm Working On
-- **LLM Optimization:** Fine-tuning open-source models (Llama, Mistral) for domain-specific tasks.
-- **RAG Pipelines:** Developing advanced retrieval systems using Vector Databases (ChromaDB, Pinecone).
-- **MLOps:** Streamlining the deployment of ML models into production environments.
+# <p align="center">Hi there! I'm Hassan 👋</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=AI+Engineer;LLM+Fine-tuning+Expert;RAG+Systems+Architect;Software+Engineering+Student" alt="Typing SVG" />
+</p>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🚀 About Me
+- 🔭 I’m currently working on **Advanced RAG Pipelines** and **LLM Fine-tuning**.
+- 🌱 I’m learning **MLOps** and **Scalable AI Architecture**.
+- 👯 I’m looking to collaborate on **Open Source AI Projects**.
+- 💬 Ask me about **Python, LangChain, or Vector DBs**.
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **AI / Machine Learning** | Python, PyTorch, TensorFlow, Scikit-learn |
-| **Generative AI** | LangChain, LlamaIndex, OpenAI API, Hugging Face |
-| **Data Engineering** | SQL, Pandas, NumPy, Vector DBs (Milvus/Pinecone) |
-| **Software Engineering** | Git, Docker, FastAPI, Flask, REST APIs |
-
----
+### 🛠️ Tech Stack
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,git,fastapi,mysql,mongodb,aws" />
+  </a>
+</p>
 
 ### 📊 GitHub Stats
-![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassanzzzj&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassanzzzj&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hassanzzzj&show_icons=true&theme=radical&rank_icon=github" alt="Hassan's Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassanzzzj&theme=radical" alt="Hassan's Streak" />
+</p>
 
 ---
 
 ### 🌐 Connect With Me
 <p align="left">
-<a href="INSERT_LINKEDIN_URL_HERE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hassan LinkedIn" height="30" width="40" /></a>
-<a href="INSERT_PORTFOLIO_URL_HERE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Hassan Portfolio" height="30" width="40" /></a>
-<a href="mailto:YOUR_EMAIL@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Hassan Email" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hassan-abid-854827285/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:ha082724@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
----
-
-### 🏆 Featured Projects
-* **[Project Name]**: Brief description of your best LLM/RAG project.
-* **[Project Name]**: Brief description of a fine-tuning experiment or ML app.
+Last Updated: $(date)
