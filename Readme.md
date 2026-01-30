@@ -1,15 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Hassan%20Abid&desc=AI%20Engineer%20%7C%20LLM%20Fine-Tuning%20%26%20RAG%20Expert&fontSize=70&fontAlignY=35&descAlignY=60&animation=fadeIn&fontColor=ffffff&descColor=00f2ff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=280&section=header&text=Hassan%20Abid&desc=AI%20Engineer%20%7C%20Fine-Tuning%20&%20RAG%20Architect&fontSize=75&fontAlignY=35&descAlignY=60&animation=fadeIn&fontColor=ffffff&descColor=00f2ff" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00F2FF&center=true&vCenter=true&width=800&lines=AI+Engineer+%7C+LLM+Specialist;RAG+System+Architect;Software+Engineering+Student;Fine-tuning+Large+Language+Models" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=00F2FF&center=true&vCenter=true&width=800&lines=Software+Engineering+Student;Agentic+AI+Engineer;LLM+Fine-Tuning+%7C+RAG+Expert;Building+Production-Ready+GenAI" alt="Typing SVG" />
 </a>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Engineer-Expert-000000?style=for-the-badge&logo=robotframework&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LLM-Fine--Tuning-8A2BE2?style=for-the-badge&logo=huggingface&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG-Architecture-00f2ff?style=for-the-badge&logo=databricks&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Status-Available_for_Projects-00f2ff?style=for-the-badge&logo=github&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Expertise-AI_Engineering-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
 </div>
