@@ -1,0 +1,25 @@
+name: Daily Auto Commit
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Har raat 12 baje ye script khud chalegi
+  workflow_dispatch: # Isse aap manually bhi run kar sakte hain
+
+jobs:
+  auto-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Update Last Committed Date
+        run: |
+          echo "Last Active: $(date)" > last_commit.txt
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add last_commit.txt
+          git commit -m "chore: daily profile activity update [skip ci]" || exit 0
+          git push
