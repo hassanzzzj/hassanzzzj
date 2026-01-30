@@ -34,9 +34,14 @@
 
 ### 📊 Vital Signs (Real-time Stats)
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hassanzzzj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" alt="Hassan's Stats" />
-  
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hassanzzzj&theme=tokyonight&border_radius=10" alt="Hassan's Streak" />
+  <img src="https://img.shields.io/badge/Main_Language-Python-36BCF7?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Field-AI_&_LLM-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Software_Engineer-green?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/hassanzzzj?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/hassanzzzj?style=social" />
 </p>
 
 <p align="center">
