@@ -46,17 +46,19 @@ I care about:
 *Foundational tools powering my deployments:*
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,pandas,numpy,huggingface&theme=dark" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=fastapi,docker,git,githubactions,postgres,linux,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,docker,git,githubactions,postgres,linux,vscode&theme=dark" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black" />
 </div>
 
-<div align="center">
+ <div align="center">
   <br>
-  <b>Vector & Retrieval:</b><br>
-  <img src="https://img.shields.io/badge/ChromaDB-Search-brightgreen?style=flat-square"/>
-  <img src="https://img.shields.io/badge/FAISS-Index-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/PGVector-Database-336791?style=flat-square"/>
+  <b>🚀 Vector & Retrieval Engines</b><br>
+  <img src="https://img.shields.io/badge/ChromaDB-Search-brightgreen?style=flat-square&logo=google-cloud"/>
+  <img src="https://img.shields.io/badge/FAISS-Index-blue?style=flat-square&logo=meta"/>
+  <img src="https://img.shields.io/badge/PGVector-Database-336791?style=flat-square&logo=postgresql"/>
 </div>
 
 ---
@@ -73,13 +75,12 @@ I care about:
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-git-masterhst-pujas-projects.vercel.app/api?username=hassanzzzj&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Hassan's GitHub Stats" />
-
-  <img width="50%" src="https://github-readme-streak-stats-five.vercel.app/?user=hassanzzzj&theme=tokyonight&hide_border=true" alt="Hassan's Streak Stats" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hassanzzzj&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/hassanzzzj/hassanzzzj/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/hassanzzzj/hassanzzzj/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
 
 ---
