@@ -72,15 +72,14 @@ I care about:
 ---
 
 ## 📊 GitHub Analytics
-
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hassanzzzj&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  
-  <img width="50%" src="https://streak-stats.demolab.com?user=hassanzzzj&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats-git-masterhst-pujas-projects.vercel.app/api?username=hassanzzzj&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Hassan's GitHub Stats" />
+
+  <img width="50%" src="https://github-readme-streak-stats-five.vercel.app/?user=hassanzzzj&theme=tokyonight&hide_border=true" alt="Hassan's Streak Stats" />
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/hassanzzzj/hassanzzzj/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/hassanzzzj/hassanzzzj/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
 ---
