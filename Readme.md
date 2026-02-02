@@ -68,9 +68,9 @@ Main sirf prompts nahi likhta, main **Autonomous Systems** banata hoon. As an **
 ## 📈 Engineering Impact
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hassanzzzj&show_icons=true&theme=tokyonight&title_color=00f2ff&icon_color=00f2ff&hide_border=false&include_all_commits=true&count_private=true" alt="Hassan's GitHub Stats" />
-  
-  <img width="41.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanzzzj&layout=compact&theme=tokyonight&title_color=00f2ff&hide_border=false" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hassanzzzj&show_icons=true&theme=tokyonight&title_color=00f2ff&icon_color=00f2ff&hide_border=true&include_all_commits=true&count_private=true" />
+
+  <img width="44%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hassanzzzj&layout=compact&theme=tokyonight&title_color=00f2ff&hide_border=true" />
 </p>
 
 <div align="center">
