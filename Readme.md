@@ -1,82 +1,76 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Hassan%20Abid&desc=Agentic%20AI%20Engineer%20%7C%20Building%20Systems%20that%20Think&fontSize=70&fontAlignY=35&descAlignY=60&animation=fadeIn&fontColor=ffffff&descColor=00f2ff" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=280&section=header&text=Hassan%20Abid&desc=Engineering%20The%20Next%20Era%20of%20Agentic%20Intelligence&fontSize=75&fontAlignY=35&descAlignY=60&animation=fadeIn&fontColor=00f2ff&descColor=ffffff" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00F2FF&center=true&vCenter=true&width=800&lines=Agentic+AI+Engineer;LLM+Engineering+%7C+RAG+%7C+Fine-Tuning;AI+Automation+for+Real-World+Systems;Building+Production-Ready+GenAI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=800&lines=Building+Self-Evolving+AI+Agents;Architecting+Enterprise+RAG+Systems;Bridging+LLMs+with+Real-World+Actions;Optimizing+Production+AI+Inference" alt="Typing SVG" />
 </a>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Agentic%20AI-Autonomous-000000?style=for-the-badge&logo=robotframework&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GenAI-Production-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LLMs-Engineering-00f2ff?style=for-the-badge&logo=googlebard&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Focus-Agentic%20Workflows-00f2ff?style=for-the-badge&logo=probot&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Stack-Production%20Ready-white?style=for-the-badge&logo=fastapi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Architecture-RAG%20Expert-8A2BE2?style=for-the-badge&logo=databricks&logoColor=white"/>
 </p>
 
 </div>
 
 ---
 
-## 🧭 About Me
+## ⚡ The Mission 
 
-I’m an **AI / LLM Engineer** focused on building **Agentic AI systems**, **RAG pipelines**, and **automation workflows** that actually work in production.
+Main sirf prompts nahi likhta, main **Autonomous Systems** banata hoon. As an **Agentic AI Engineer**, mera focus aise systems par hai jo sirf jawab na dein, balki **Tools** use karein aur complex problems solve karein.
 
-I care about:
-- **Reliability** over demos  
-- **Systems** over scripts  
-- **Shipping** over hype  
+- 🏗️ **Architecting** resilient multi-agent systems.
+- 🛠️ **Refining** RAG pipelines for zero-hallucination outputs.
+- ⛓️ **Orchestrating** workflows that connect LLMs to APIs and Databases.
 
 ---
 
-## 🧠 Tech Stack & Tools
+## 🛠 My Intelligence Stack
 
-### ⚡ The Agentic AI Suite
-*Cutting-edge frameworks I use to build autonomous systems:*
+### 🧠 Agentic Orchestration
+*Frameworks that bring LLMs to life*
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangGraph-FF4B4B?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CrewAI-FF6F00?style=for-the-badge&logo=robotframework&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft_AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=llamaindex&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/LangGraph-Expert-0052FF?style=flat-square&logo=diagrams.net&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CrewAI-Multi--Agent-FF4B4B?style=flat-square&logo=octopusdeploy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AutoGen-Complex--Workflows-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LlamaIndex-Data--Framework-black?style=flat-square&logo=llamaindex&logoColor=white"/>
 </p>
 
-### 🛠️ Core Engineering & MLOps
-*Foundational tools powering my deployments:*
+### ⚙️ Production Engineering
+*Building the backbone*
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,docker,git,githubactions,postgres,linux,vscode&theme=dark" />
-  <br><br>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black" />
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,linux,githubactions,postgres,mongodb,redis&theme=dark" />
 </div>
 
- <div align="center">
-  <br>
-  <b>🚀 Vector & Retrieval Engines</b><br>
-  <img src="https://img.shields.io/badge/ChromaDB-Search-brightgreen?style=flat-square&logo=google-cloud"/>
-  <img src="https://img.shields.io/badge/FAISS-Index-blue?style=flat-square&logo=meta"/>
-  <img src="https://img.shields.io/badge/PGVector-Database-336791?style=flat-square&logo=postgresql"/>
-</div>
+### 🧬 LLM & Vector Ops
+*Fine-tuning & Retrieval*
+
+| Tech | Use Case |
+| :--- | :--- |
+| **OpenAI / Anthropic** | Frontier Model Integration |
+| **Hugging Face** | Local LLM Deployment & Fine-tuning |
+| **Pinecone / Qdrant** | High-Scale Vector Search |
+| **Weights & Biases** | Experiment Tracking & Evaluation |
 
 ---
 
-## 🎯 Current Focus
+## 🚀 Active R&D (Current Focus)
 
-- 🤖 **Agentic AI** — Multi-agent systems, tool-using autonomous workflows  
-- 🧠 **LLM Engineering** — Fine-tuning, prompting, evaluation, optimization  
-- 🔍 **RAG Architectures** — Hybrid search, vector DBs, grounding LLMs  
-- ⚙️ **AI Automation** — AI agents inside real products & pipelines  
-- 📦 **MLOps (Learning)** — Scaling, monitoring, production constraints  
+- 🤖 **Compound AI Systems:** Moving beyond single prompts to complex, multi-step agent loops.
+- 📊 **Evaluation Frameworks:** Building automated tests for Agent reliability (RAGAS, DeepEval).
+- ☁️ **Edge AI:** Running optimized models on-device for privacy and speed.
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 Engineering Impact
+
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hassanzzzj&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hassanzzzj&show_icons=true&theme=tokyonight&title_color=00f2ff&icon_color=00f2ff&hide_border=false&include_all_commits=true&count_private=true" alt="Hassan's GitHub Stats" />
   
+  <img width="41.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanzzzj&layout=compact&theme=tokyonight&title_color=00f2ff&hide_border=false" alt="Top Languages" />
 </p>
 
 <div align="center">
@@ -85,27 +79,17 @@ I care about:
 
 ---
 
-### Profile Views
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=hassanzzzj&color=00f2ff&style=flat-square&label=PROFILE+VIEWS" />
-</p>
-
-## 🤝 Let’s Connect
+## 🌐 Get In Touch
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/hassan-abid-854827285/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/hassan-abid-854827285/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:ha082724@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-</div>
 
 <br>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&customColorList=5F8D98,3E6370,233C48"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer&flip=true&opacity=0.5"/>
 </div>
