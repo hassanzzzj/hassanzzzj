@@ -89,7 +89,13 @@ Main sirf prompts nahi likhta, main **Autonomous Systems** banata hoon. As an **
 <a href="mailto:ha082724@gmail.com">
   <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+<br><br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hassanzzzj&label=PROFILE+VISITS&color=00f2ff&style=flat-square" alt="Profile Views" />
+</p>
+<br><br>
 
-<br>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer&flip=true&opacity=0.5"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=120&section=footer&text=Innovating%20with%20Agents&fontSize=25&fontColor=00f2ff&fontAlignY=65" />
+</div>
 </div>
