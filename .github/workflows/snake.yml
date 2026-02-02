@@ -6,17 +6,22 @@ on:
   workflow_dispatch:
   push:
     branches:
-    - main
+      - main
 
 jobs:
   generate:
-    # THIS SECTION FIXES THE ERROR 128
+    # Permissions ko yahan align hona chahiye
     permissions: 
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
     
     steps:
+      # Step 1: Checkout zaroori hai taake context mil sake
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      # Step 2: Generate SVG
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
@@ -27,6 +32,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
+      # Step 3: Push to Output branch
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
