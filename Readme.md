@@ -10,23 +10,86 @@
   <img src="https://img.shields.io/badge/Focus-Agentic%20Workflows-00f2ff?style=for-the-badge&logo=probot&logoColor=black"/>
   <img src="https://img.shields.io/badge/Stack-Production%20Ready-white?style=for-the-badge&logo=fastapi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Architecture-RAG%20Expert-8A2BE2?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Status-Actively%20Building-brightgreen?style=for-the-badge&logo=statuspage&logoColor=white"/>
 </p>
 
 </div>
 
 ---
 
-## ⚡ The Mission 
+## 📑 Table of Contents
 
-Main sirf prompts nahi likhta, main **Autonomous Systems** banata hoon. As an **Agentic AI Engineer**, mera focus aise systems par hai jo sirf jawab na dein, balki **Tools** use karein aur complex problems solve karein.
-
-- 🏗️ **Architecting** resilient multi-agent systems.
-- 🛠️ **Refining** RAG pipelines for zero-hallucination outputs.
-- ⛓️ **Orchestrating** workflows that connect LLMs to APIs and Databases.
+- [🎯 Mission](#-mission)
+- [🌟 Key Features](#-key-features)
+- [🧩 Architecture Philosophy](#-architecture-philosophy)
+- [🛠 Intelligence Stack](#-intelligence-stack)
+- [🚀 Active R&D](#-active-rd-current-focus)
+- [🗺️ Roadmap](#️-roadmap--whats-next)
+- [📈 Engineering Impact](#-engineering-impact)
+- [🌐 Get in Touch](#-get-in-touch)
 
 ---
 
-## 🛠 My Intelligence Stack
+## 🎯 Mission
+
+> I don't just write prompts — I engineer **autonomous systems**.
+
+As an **Agentic AI Engineer**, my focus is on building systems that don't merely respond, but actively **reason, use tools, and solve complex, multi-step problems** in production environments.
+
+| Core Principle | Description |
+|---|---|
+| 🏗️ **Architect** | Design resilient, fault-tolerant multi-agent systems that recover gracefully from failure. |
+| 🛠️ **Refine** | Build RAG pipelines engineered for zero-hallucination, high-fidelity outputs. |
+| ⛓️ **Orchestrate** | Connect LLMs to real-world APIs, databases, and execution environments. |
+
+---
+
+## 🌟 Key Features
+
+A breakdown of the capabilities and engineering practices that define my work:
+
+- 🧠 **Multi-Agent Orchestration** — Designing agent-to-agent communication graphs with state persistence and conditional routing.
+- 🔍 **Retrieval-Augmented Generation (RAG)** — Building high-precision retrieval pipelines with hybrid search (semantic + keyword) to minimize hallucination.
+- 🔗 **Tool-Calling & Function Execution** — Connecting LLMs to live APIs, databases, and internal tooling for real-world action-taking.
+- 📊 **Automated Evaluation Loops** — Continuous agent reliability testing using frameworks like RAGAS and DeepEval.
+- ☁️ **Edge & On-Device AI** — Deploying optimized, quantized models for privacy-first, low-latency inference.
+- 🐳 **Production-Grade Deployment** — Containerized, CI/CD-driven delivery pipelines for AI services at scale.
+- 📉 **Experiment Tracking** — Structured tracking of fine-tuning runs and model evaluation metrics via Weights & Biases.
+
+---
+
+## 🧩 Architecture Philosophy
+
+A representative view of how I structure agentic systems — from user intent to tool-augmented action:
+
+```mermaid
+flowchart LR
+    A[User Intent] --> B{Agent Orchestrator}
+    B --> C[Planning / Reasoning Layer]
+    C --> D[Tool Selection]
+    D --> E1[Vector DB Retrieval]
+    D --> E2[External API Call]
+    D --> E3[Database Query]
+    E1 --> F[Context Synthesis]
+    E2 --> F
+    E3 --> F
+    F --> G[LLM Response Generation]
+    G --> H{Evaluation Layer}
+    H -->|Pass| I[Final Output]
+    H -->|Fail| C
+```
+
+**Pipeline Summary:**
+
+1. **Intent Capture** — User input is parsed and routed to the orchestrator.
+2. **Reasoning Layer** — The agent plans a sequence of steps (LangGraph state machine).
+3. **Tool Execution** — The agent dynamically selects and invokes tools (retrieval, APIs, databases).
+4. **Context Synthesis** — Retrieved data is merged into a coherent context window.
+5. **Generation & Self-Evaluation** — Output is generated, then scored against reliability metrics before being returned.
+
+---
+
+## 🛠 Intelligence Stack
 
 ### 🧠 Agentic Orchestration
 *Frameworks that bring LLMs to life*
@@ -46,22 +109,45 @@ Main sirf prompts nahi likhta, main **Autonomous Systems** banata hoon. As an **
 </div>
 
 ### 🧬 LLM & Vector Ops
-*Fine-tuning & Retrieval*
+*Fine-tuning & retrieval infrastructure*
 
-| Tech | Use Case |
+| Technology | Use Case |
 | :--- | :--- |
-| **OpenAI / Anthropic** | Frontier Model Integration |
-| **Hugging Face** | Local LLM Deployment & Fine-tuning |
-| **Pinecone / Qdrant** | High-Scale Vector Search |
-| **Weights & Biases** | Experiment Tracking & Evaluation |
+| **OpenAI / Anthropic** | Frontier model integration |
+| **Hugging Face** | Local LLM deployment & fine-tuning |
+| **Pinecone / Qdrant** | High-scale vector search |
+| **Weights & Biases** | Experiment tracking & evaluation |
+
+### 📦 Full Stack Snapshot
+
+| Layer | Tools |
+|---|---|
+| **Languages** | Python |
+| **Backend / APIs** | FastAPI |
+| **Data Stores** | PostgreSQL, MongoDB, Redis |
+| **Infra / DevOps** | Docker, GitHub Actions, Linux |
+| **Vector DBs** | Pinecone, Qdrant |
+| **Evaluation** | RAGAS, DeepEval, Weights & Biases |
 
 ---
 
 ## 🚀 Active R&D (Current Focus)
 
-- 🤖 **Compound AI Systems:** Moving beyond single prompts to complex, multi-step agent loops.
-- 📊 **Evaluation Frameworks:** Building automated tests for Agent reliability (RAGAS, DeepEval).
-- ☁️ **Edge AI:** Running optimized models on-device for privacy and speed.
+- 🤖 **Compound AI Systems** — Moving beyond single prompts into complex, multi-step agent loops.
+- 📊 **Evaluation Frameworks** — Building automated reliability tests for agent behavior (RAGAS, DeepEval).
+- ☁️ **Edge AI** — Running optimized models on-device for privacy and speed.
+
+---
+
+## 🗺️ Roadmap & What's Next
+
+> Planned directions for upcoming exploration and skill-building.
+
+- [ ] **Agent Memory Systems** — Long-term, persistent memory architectures for multi-session agents.
+- [ ] **Self-Correcting Pipelines** — Agents that critique and refine their own outputs autonomously.
+- [ ] **Multi-Modal Agents** — Extending tool-calling agents to handle vision and audio inputs.
+- [ ] **Open-Source Agent Toolkit** — Publishing reusable, production-ready agent orchestration templates.
+- [ ] **Cost-Aware Routing** — Dynamic model selection based on task complexity and inference cost.
 
 ---
 
@@ -69,7 +155,6 @@ Main sirf prompts nahi likhta, main **Autonomous Systems** banata hoon. As an **
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hassanzzzj&show_icons=true&theme=tokyonight&title_color=00f2ff&icon_color=00f2ff&hide_border=true&include_all_commits=true&count_private=true" />
-
   <img width="44%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hassanzzzj&layout=compact&theme=tokyonight&title_color=00f2ff&hide_border=true" />
 </p>
 
@@ -79,7 +164,7 @@ Main sirf prompts nahi likhta, main **Autonomous Systems** banata hoon. As an **
 
 ---
 
-## 🌐 Get In Touch
+## 🌐 Get in Touch
 
 <div align="center">
 
@@ -89,13 +174,15 @@ Main sirf prompts nahi likhta, main **Autonomous Systems** banata hoon. As an **
 <a href="mailto:ha082724@gmail.com">
   <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <br><br>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hassanzzzj&label=PROFILE+VISITS&color=00f2ff&style=flat-square" alt="Profile Views" />
 </p>
+
 <br><br>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=120&section=footer&text=Innovating%20with%20Agents&fontSize=25&fontColor=00f2ff&fontAlignY=65" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=120&section=footer&text=Innovating%20with%20Agents&fontSize=25&fontColor=00f2ff&fontAlignY=65" />
+
 </div>
